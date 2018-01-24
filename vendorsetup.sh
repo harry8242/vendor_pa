@@ -30,3 +30,6 @@ add_lunch_combo pa_suzu-userdebug
 add_lunch_combo pa_dora-userdebug
 add_lunch_combo pa_kagura-userdebug
 add_lunch_combo pa_keyaki-userdebug
+
+#ZUK
+add_lunch_combo pa_z2_plus-userdebug

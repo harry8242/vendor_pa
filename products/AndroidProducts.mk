@@ -47,3 +47,8 @@
     $(LOCAL_DIR)/dora/pa_dora.mk \
     $(LOCAL_DIR)/kagura/pa_kagura.mk \
     $(LOCAL_DIR)/keyaki/pa_keyaki.mk
+
+#ZUK
+  PRODUCT_MAKEFILES += \
+    $(LOCAL_DIR)/z2_plus/pa_z2_plus.mk \
+
